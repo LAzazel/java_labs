@@ -1,0 +1,6 @@
+.idea/
+out/
+target/
+*.class
+junit-platform-console-standalone-*.jar
+.DS_Store
